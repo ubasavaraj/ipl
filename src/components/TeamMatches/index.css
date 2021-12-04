@@ -1,0 +1,8 @@
+* {
+  font-family: Bree Serif;
+}
+.list-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
